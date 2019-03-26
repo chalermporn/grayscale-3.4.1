@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Grayscale v3.4.1 (http://startbootstrap.com/template-overviews/grayscale)
+ * Start Bootstrap - Grayscale v3.4.1 (https://chalermporn.github.io/grayscale-3.4.1)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/grayscale/blob/master/LICENSE)
  */
