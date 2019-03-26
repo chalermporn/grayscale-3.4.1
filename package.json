@@ -1,0 +1,37 @@
+{
+  "name": "grayscale",
+  "title": "Grayscale",
+  "version": "3.4.1",
+  "homepage": "https://github.com/chalermporn/grayscale-3.4.1.git",
+  "license": "MIT",
+  "author": "Start Bootstrap",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chalermporn/grayscale-3.4.1.git"
+  },
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "font-awesome": "4.6.3",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.3",
+    "del": "4.0.0",
+    "gulp": "4.0.0",
+    "gulp-autoprefixer": "6.0.0",
+    "gulp-clean-css": "4.0.0",
+    "gulp-header": "2.0.7",
+    "gulp-less": "^4.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.2",
+    "merge-stream": "^1.0.1"
+  }
+}
